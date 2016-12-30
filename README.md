@@ -9,4 +9,4 @@
 >>>>>>> feature-B
 
 #Removed Branches
-
+	-Feature-C
